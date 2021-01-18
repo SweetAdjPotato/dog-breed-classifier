@@ -48,7 +48,7 @@ The dog classifier built on top og VGG16 results in 87% accuracy score on the te
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Acknowledge to [Udacity](https://www.udacity.com/) and to Paul Clough and Mark Stevenson for the data [Corpus of Plagiarised Short Answers](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html).  
+Acknowledge to [Udacity](https://www.udacity.com/) for providing the starter codes.  
 
 
 
