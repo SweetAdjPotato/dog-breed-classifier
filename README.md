@@ -42,7 +42,7 @@ In this project, a dog breed classifier is built using transfer learning on VGG1
 
 The dog classifier built on top og VGG16 results in 87% accuracy score on the test data. Some sample results are given below.
 
-<img src="images/sample_result.png" width="800" height="1200" />
+<img src="images/sample_result.png" width="800" height="975" />
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
